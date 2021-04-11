@@ -1,0 +1,10 @@
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\Knjizara.exe.config
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\Knjizara.exe
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\Knjizara.pdb
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.Form1.resources
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.Properties.Resources.resources
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.exe
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.pdb

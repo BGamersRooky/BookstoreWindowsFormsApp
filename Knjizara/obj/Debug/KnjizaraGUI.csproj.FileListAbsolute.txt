@@ -1,0 +1,14 @@
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\Knjizara.exe.config
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\Knjizara.exe
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\Knjizara.pdb
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\BibliotekaKlasa.dll
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\KnjizaraGUI.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.Properties.Resources.resources
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\KnjizaraGUI.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\KnjizaraGUI.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\KnjizaraGUI.csproj.CopyComplete
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.exe
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.pdb
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\KnjizaraGUI.frmKnjizaraGUI.resources
+C:\Users\filip\source\repos\BibliotekaKlasa\Knjizara\obj\Debug\Knjizara.ListaRacuna.resources
